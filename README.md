@@ -1,82 +1,76 @@
-# 💻 Amaan Pathan — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **Web Technologies**.
+# Amaan Pathan Portfolio
 
-🌐 **Website :** [ Amaan Pathan](#)
-
-🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
----
+A personal developer portfolio showcasing projects, skills, and contact
+information. This portfolio is designed with a clean UI, smooth
+interactions, and responsive layouts to highlight professional
+experience and full‑stack development capabilities.
 
 ## 🚀 Features
 
-* 🎨 **Modern UI/UX** with black-based aesthetic theme
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
-
----
+-   **Modern UI/UX** with responsive design\
+-   **Project showcase section** with detailed descriptions\
+-   **Skills section** highlighting technical strengths\
+-   **Contact section** with direct links\
+-   **Smooth animations and transitions**\
+-   **Fast and optimized performance**
 
 ## 🛠️ Tech Stack
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+-   **Frontend:** HTML, CSS, JavaScript, React\
+-   **Styling:** Tailwind CSS\
+-   **Build Tools:** Vite\
+-   **Version Control:** Git & GitHub
 
----
+## 📁 Project Structure
 
-## ⚙️ Setup Instructions
+    Amaan-Pathan-Portfolio/
+    │── public/
+    │── src/
+    │   ├── components/
+    │   ├── assets/
+    │   ├── pages/
+    │── package.json
+    │── vite.config.js
+    │── README.md
 
-To run this project locally:
+## 📸 Preview
 
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
 
-# 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+* Index page
+![Index_page](./public/screenshort/index_page.png)
 
-# 3️⃣ Install dependencies
+* Project page
+![Project_page](./public/screenshort/project.png)
+
+* About_me page
+![About_me_page](./public/screenshort/aboutme.png)
+
+* Resume page
+![Resume_page](./public/screenshort/resume.png)
+
+* Contact page
+![Contact_page](./public/screenshort/contact.png)
+
+## 📦 Installation & Setup
+
+``` bash
+git clone https://github.com/amaanpathan2313/Amaan-Pathan-Portfolio
+cd Amaan-Pathan-Portfolio
 npm install
-
-# 4️⃣ Run development server
-npm start or npm run dev
+npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+## 🔗 Live Demo
 
----
+(Add deployed link if available.)
+
+## 🤝 Contributing
+
+Contributions are welcome!\
+Feel free to fork this repo and submit a pull request.
 
 ## 📬 Contact
 
-If you’d like to collaborate or just say hi 👋, feel free to reach out!
-
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
-
----
-
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
-
----
-
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
-
----
-
-> *“Showcasing my work and passion through technology 💻”*
+-   **GitHub:** amaanpathan2313\
+-   **LinkedIn:** https://www.linkedin.com/in/amaan23\
+-   **Email:**  amanpathan348@gmail.com
