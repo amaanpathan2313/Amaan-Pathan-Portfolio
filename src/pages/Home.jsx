@@ -5,7 +5,7 @@ import '../index.css'
 
 
 // 🖼️ Import Assets
-import photo from '../../public/photo.jpg'
+import photo from '../../public/photo.jpeg'
 import githubLogo from '../../public/github.png'
 import linkedinLogo from '../../public/linkedin.png'
 import gmailLogo from '../../public/gmail.png'
@@ -69,7 +69,7 @@ return (
           className="photo-frame"
         >
           <motion.img
-            src={'https://media.licdn.com/dms/image/v2/D4D35AQEKQqmInODbgg/profile-framedphoto-shrink_400_400/B4DZWEBuCuHwAg-/0/1741676798605?e=1764234000&v=beta&t=fllSNa1820-BQeu6rm7Z-Kgwmh7x4oKctF21-FDftOQ'}
+            src={photo}
             alt="Amaan_Pathan"
             initial={{ scale: 0.8, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
