@@ -81,7 +81,7 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary :</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              Computer Engineering graduate (2014) currently upskilling in Full Stack Web Development at Masai. Skilled in building responsive and interactive applications using JavaScript, React, Node.js, Express, and MongoDB. Strong problem-solving abilities with a solid foundation in core computer science concepts. Passionate about clean code, modern development practices, and creating impactful digital solutions. Actively seeking opportunities to apply full-stack skills in real-world projects and transition into the tech industry with a strong, updated skill set.
+              Computer Engineering graduate (2024) currently upskilling in Full Stack Web Development at Masai. Skilled in building responsive and interactive applications using JavaScript, React, Node.js, Express, and MongoDB. Strong problem-solving abilities with a solid foundation in core computer science concepts. Passionate about clean code, modern development practices, and creating impactful digital solutions. Actively seeking opportunities to apply full-stack skills in real-world projects and transition into the tech industry with a strong, updated skill set.
             </p>
           </motion.div>
         </motion.div>
