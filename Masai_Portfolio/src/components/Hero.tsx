@@ -120,7 +120,7 @@ const Hero = () => {
               variant="outline"
               className="border-4 border-foreground text-foreground hover:bg-foreground hover:text-background transition-all font-bold uppercase tracking-wider"
               onClick={() => {
-                window.open('/public/Amaan_Pathan_Resume.pdf', '_blank');
+                window.open('/Amaan_Pathan_Resume.pdf', '_blank');
                 const link = document.createElement('a');
                 link.href = '/Amaan_Pathan_Resume.pdf';
                 link.download = 'Amaan_Pathan_Resume.pdf';
